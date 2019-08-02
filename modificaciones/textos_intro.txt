@@ -1,0 +1,2 @@
+710DF0 intro_texto1
+710E65 intro_texto2

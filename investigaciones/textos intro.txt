@@ -1,0 +1,5 @@
+1C5794 rojo fuego, intro oak 
+12FA6C Puntero
+
+1C59CF Último texto de la intro
+130A40 Puntero
