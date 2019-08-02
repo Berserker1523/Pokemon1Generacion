@@ -1,0 +1,2 @@
+B00000 intro_texto1
+B00075 intro_texto2
