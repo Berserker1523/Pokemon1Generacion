@@ -1,0 +1,9 @@
+3FE6D5 Texto ¿what will Pokémon do?
+158BD4 032C40 0EA76C Punteros
+
+FD 12 -> Nombre del Pokémon aliado actual en combate
+
+3FD284 Texto Wild pokémon appeared!
+0D7420 Puntero
+
+FD 06 -> Nombre del Pokémon rival actual en combate

@@ -1,0 +1,4 @@
+#dynamic 0xB00000
+
+#org @mensaje
+= ¿Qué debería hacer\nas?

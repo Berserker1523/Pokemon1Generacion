@@ -1,6 +1,0 @@
-1C5C78 Primer texto intro
-12F8F0 Puntero
-
-1C5EF4 Ultimo texto intro
-1308C4 Puntero
-

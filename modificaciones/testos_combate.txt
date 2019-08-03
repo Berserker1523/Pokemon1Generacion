@@ -1,0 +1,2 @@
+B00146 Texto ¿Qué debería hacer x_pokémon?
+B0015E Texto ¡Un pokémon salvaje!
